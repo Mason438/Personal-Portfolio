@@ -25,7 +25,6 @@ const skills = [
     {name: "Principles of Database Systems", level: 50, category: "coursework"},
     {name: "Platform Based Computing", level: 50, category: "coursework"}, 
     {name: "Statistics", level: 50, category: "coursework"}, 
-    {name: "Platform Based Computing", level: 50, category: "coursework"}, 
 ]
 
 const categories = ["all skills", "frontend", "backend", "tools", "coursework"];
