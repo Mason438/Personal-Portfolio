@@ -30,7 +30,7 @@ export const AboutSection = () => {
                             </a>
 
                             <a
-                                href="/Mason Canton Resume.pdf"
+                                href="/Mason Canton Resume 2025.pdf"
                                 className="inline-block px-6 py-2 rounded-full border border-primary text-primary 
                                 hover:bg-primary/10 transition-colors duration-300"
                                 target="_blank"
